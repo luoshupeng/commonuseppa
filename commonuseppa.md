@@ -33,3 +33,6 @@ ppa:exaile-devel/ppa
 
 12.sublime-text-2  
 ppa:webupd8team/sublime-text-2
+
+13. gimp  
+ppa:otto-kesselgulasch/gimp
