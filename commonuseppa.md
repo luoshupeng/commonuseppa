@@ -36,3 +36,4 @@ ppa:webupd8team/sublime-text-2
 
 13. gimp  
 ppa:otto-kesselgulasch/gimp
+
