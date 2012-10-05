@@ -34,9 +34,9 @@ ppa:exaile-devel/ppa
 12.sublime-text-2  
 ppa:webupd8team/sublime-text-2
 
-13. gimp  
+13.gimp  
 ppa:otto-kesselgulasch/gimp
 
-14. shutter  
+14.shutter  
 ppa:shutter/ppa
 
