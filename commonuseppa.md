@@ -46,3 +46,6 @@ ppa:pinta-maintainers/pinta-stable
 16.clementine音乐播放器  
 ppa:me-davidsansome/clementine
 
+17.sopcast-player  sopcast网络播放器  
+ppa:jason-scheunemann/ppa
+
