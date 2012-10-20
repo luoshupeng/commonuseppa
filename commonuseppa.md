@@ -49,3 +49,5 @@ ppa:me-davidsansome/clementine
 17.sopcast-player  sopcast网络播放器  
 ppa:jason-scheunemann/ppa
 
+18.deadbeef音乐播放器  
+ppa:alexey-smirnov/deadbeef
