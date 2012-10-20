@@ -40,3 +40,9 @@ ppa:otto-kesselgulasch/gimp
 14.shutter  
 ppa:shutter/ppa
 
+15.pinta图像编辑器  
+ppa:pinta-maintainers/pinta-stable
+
+16.clementine音乐播放器  
+ppa:me-davidsansome/clementine
+
